@@ -50,11 +50,11 @@ Play | 26
 ## Using The Program
 1. Run ``` sudo python3  led.py -c [filename]``` where [filename] is the file you want to create/load.
     a. If the file does not exist, it will create a new one. 
-3. Move the directional buttons to move the cursor.
-4. Press the pen button to draw
+2. Move the directional buttons to move the cursor.
+3. Press the pen button to draw
     a. You can hold the button down to draw faster.
-5. Press the Play button to enter Play Mode and display.
-6. Press the Next and Previous frames to switch frames.
+4. Press the Play button to enter Play Mode and display.
+5. Press the Next and Previous frames to switch frames.
 
 ### Editing Command Combinations
 Button + | Button = | Command
